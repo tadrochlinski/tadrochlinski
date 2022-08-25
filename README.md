@@ -9,14 +9,14 @@ My main goal is to level up my skills in Front-End Development. I am a hobbyist 
 
 - GIT / github
 - Visual Studio Code
+- Figma
 
 ### Frontend
-- Figma
 - HTML
 - CSS / SCSS / Styled Components
 - JS 
-- React
-- Firebase
+- React (Fundamentals)
+- Firebase (Hands on)
 
 ### Games 
 - C#
@@ -25,4 +25,4 @@ My main goal is to level up my skills in Front-End Development. I am a hobbyist 
 
 ## Contact / Links
 - 📧 tadrochlinski@gmail.com
-- 🔗 Linked In 
+- 🔗 [Linked in](https://www.linkedin.com/in/tomaszdrochlinski/)
