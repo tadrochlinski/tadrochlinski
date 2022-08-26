@@ -11,12 +11,14 @@ My main goal is to level up my skills in Front-End Development. I am a hobbyist 
 - Visual Studio Code
 - Figma
 
-### Frontend
+### Front-end
 - HTML
 - CSS / SCSS / Styled Components
 - JS 
 - React (Fundamentals)
-- Firebase (Hands on)
+
+### Back-end
+- Firebase (Firebase)
 
 ### Games 
 - C#
