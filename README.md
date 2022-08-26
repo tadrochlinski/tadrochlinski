@@ -18,7 +18,7 @@ My main goal is to level up my skills in Front-End Development. I am a hobbyist 
 - React (Fundamentals)
 
 ### Back-end
-- Firebase (Firebase)
+- Firebase (Fundamentals)
 
 ### Games 
 - C#
